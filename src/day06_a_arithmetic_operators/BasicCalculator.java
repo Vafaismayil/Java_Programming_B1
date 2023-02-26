@@ -16,6 +16,18 @@ public class BasicCalculator {
         System.out.println(num1 + " / "  + num2 + " = " + division );
         System.out.println(num1 + " % "  + num2 + " = " + reminder);
         System.out.println(num1 * num2 +  " ");
+
+            byte j = 'l';
+        System.out.println(j);
+        char s =(char)j;
+        System.out.println(s);
+            int d = 8;
+            int h = 9;
+        System.out.println(d + h + " = " + d + h);
+
+
+
+
     }
 
 
