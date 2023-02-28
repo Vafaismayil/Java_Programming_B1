@@ -8,7 +8,7 @@ public class CheckHunger {
         System.out.println("Are you hungry?");
        boolean isHungry = input.hasNextBoolean();
    if(isHungry ) {
-       System.out.println("Go the restorant");
+       System.out.println("Go the restaurant");
    }else {
 
        System.out.println("Great , then practice java");
